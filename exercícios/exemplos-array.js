@@ -43,6 +43,7 @@ let frutas_citricas = ["limão ", "laranja", "tangerina"];
 frutas_citricas.shift();
 console.log(frutas_citricas)//output: ["laranja", "tangerina"]
 
+
 //mostrando todos os elementos da array com o for
 let animais_domesticos = ["Cachorro ", "gato", "hamister"]
 for (let i =0 ; 1 < animais_domesticos.length; i++){
